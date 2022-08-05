@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body {
+    background: #0d0909;
+    font-family: 'Poppins', sans-serif;
+}
+#navigation {
+    display: inline-flex;
+}
+.link a{
+    margin: 50px;
+    padding: 10px;
+color: white;
+text-decoration: none;
+font-weight: bolder;
+font-size: xx-large;
+text-align: right;
+
+
+}
+
+.link {
+    margin-top: 35px;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 80px;
+}
+h2 {
+    text-align: center;
+    color: gray;
+
+}
+.button {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    display: inline block;
+    border-radius: 100px;
+    border: 4px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    padding: 40px;
+    width: 25%;
+    cursor: pointer;
+    margin: 10px;
+}
+.button a {
+    color: black;
+    background-color: ;
+}
+h3 {
+    text-align: center;
+    font-size: 55px;
+    color: darkorange;
+}
+.ourprogram{
+    width: max-content;
+    height: auto;
+    text-align: center;
+color: white;
+background-color: #0d0909;
+   display: inline-block;
+   border-radius: 20px;
+   border-width: 5px;
+   border-color: grey;
+   text-align: center;
+   font-weight: bolder;
+   font-size: 40px;
+   padding: 60px;
+   margin: 150px;
+}
+.ourprogram a {
+    color: white;
+
+}
+.developer {
+    background-color: rgb(57, 55, 55);
+
+}
+.months {
+color: darkorange;
+}
+.learn {
+    font-size: 15px;
+    color: grey;
+}
+.beginner {
+    font-size: 20px;
+    font-weight: lighter;
+    margin-bottom: 0%;
+}
+
+.button1 {
+    width: 700px;
+    height: 395px;
+    text-align: center;
+    color: white;
+    background-color: #0d0909;
+    display: inline-block;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: grey;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 60px;
+    margin: 150px;
+}
+.button1 a {
+    color: white;
+}
+.ideate {
+    font-size: 15px;
+    color: grey;
+}
+.BWU {
+    font-size: 20px;
+    font-weight: lighter;margin-bottom: 0%;
+}
+.endsection {
+    background-color: rgb(57, 55, 55);
+    background-size: cover;
+}
+h4 {
+    text-align: center;
+    color: grey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.about {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
+.refund {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+}
